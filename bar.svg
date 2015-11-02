@@ -1,0 +1,93 @@
+<svg class="marks" width="440" height="230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(30,10)">
+    <g class="mark-group">
+      <g transform="translate(0,0)">
+        <rect class="background" width="400" height="200" style="fill: none;"></rect>
+        <g class="mark-rect">
+          <rect transform="translate(2,144)" width="43" height="56" style="fill: steelblue;"></rect>
+          <rect transform="translate(46,89.99999999999999)" width="43" height="110.00000000000001" style="fill: steelblue;"></rect>
+          <rect transform="translate(90,114.00000000000001)" width="43" height="85.99999999999999" style="fill: steelblue;"></rect>
+          <rect transform="translate(134,17.999999999999993)" width="43" height="182" style="fill: steelblue;"></rect>
+          <rect transform="translate(178,37.999999999999986)" width="43" height="162" style="fill: steelblue;"></rect>
+          <rect transform="translate(222,94)" width="43" height="106" style="fill: steelblue;"></rect>
+          <rect transform="translate(266,162)" width="43" height="38" style="fill: steelblue;"></rect>
+          <rect transform="translate(310,26)" width="43" height="174" style="fill: steelblue;"></rect>
+          <rect transform="translate(354,96)" width="43" height="104" style="fill: steelblue;"></rect>
+        </g>
+        <g class="mark-text">
+          <text text-anchor="middle" transform="translate(22,0)" style="font: 11px sans-serif; fill: #333; fill-opacity: 0;"></text>
+        </g>
+        <g class="mark-group">
+          <g transform="translate(0,200)">
+            <rect class="background" width="0" height="0" style="pointer-events: none; fill: none;"></rect>
+            <g class="mark-rule" style="pointer-events: none;"></g>
+            <g class="mark-rule" style="pointer-events: none;">
+              <line transform="translate(24.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(68.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(112.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(156.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(200.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(244.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(288.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(332.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(376.5,0)" x2="0" y2="6" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+            </g>
+            <g class="mark-rule" style="pointer-events: none;"></g>
+            <g class="mark-text">
+              <text text-anchor="middle" transform="translate(24.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">A</text>
+              <text text-anchor="middle" transform="translate(68.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">B</text>
+              <text text-anchor="middle" transform="translate(112.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">C</text>
+              <text text-anchor="middle" transform="translate(156.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">D</text>
+              <text text-anchor="middle" transform="translate(200.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">E</text>
+              <text text-anchor="middle" transform="translate(244.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">F</text>
+              <text text-anchor="middle" transform="translate(288.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">G</text>
+              <text text-anchor="middle" transform="translate(332.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">H</text>
+              <text text-anchor="middle" transform="translate(376.5,19)" style="font: 11px sans-serif; fill: #000; opacity: 1;">I</text>
+            </g>
+            <g class="mark-path" style="pointer-events: none;">
+              <path transform="translate(0.5,0.5)" d="M0,6V0H400V6" style="fill: none; stroke: #000; stroke-width: 1;"></path>
+            </g>
+            <g class="mark-text"></g>
+          </g>
+        </g>
+        <g class="mark-group">
+          <g transform="translate(0,0)">
+            <rect class="background" width="0" height="0" style="pointer-events: none; fill: none;"></rect>
+            <g class="mark-rule" style="pointer-events: none;"></g>
+            <g class="mark-rule" style="pointer-events: none;">
+              <line transform="translate(-6,200.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,180.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,160.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,140.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,120.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,100.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,80.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,60.50000000000001)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,40.49999999999999)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,20.499999999999996)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+              <line transform="translate(-6,0.5)" x2="6" y2="0" style="fill: none; stroke: #000; stroke-width: 1; opacity: 1;"></line>
+            </g>
+            <g class="mark-rule" style="pointer-events: none;"></g>
+            <g class="mark-text">
+              <text text-anchor="end" transform="translate(-9,203.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">0</text>
+              <text text-anchor="end" transform="translate(-9,183.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">10</text>
+              <text text-anchor="end" transform="translate(-9,163.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">20</text>
+              <text text-anchor="end" transform="translate(-9,143.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">30</text>
+              <text text-anchor="end" transform="translate(-9,123.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">40</text>
+              <text text-anchor="end" transform="translate(-9,103.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">50</text>
+              <text text-anchor="end" transform="translate(-9,83.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">60</text>
+              <text text-anchor="end" transform="translate(-9,63.50000000000001)" style="font: 11px sans-serif; fill: #000; opacity: 1;">70</text>
+              <text text-anchor="end" transform="translate(-9,43.49999999999999)" style="font: 11px sans-serif; fill: #000; opacity: 1;">80</text>
+              <text text-anchor="end" transform="translate(-9,23.499999999999996)" style="font: 11px sans-serif; fill: #000; opacity: 1;">90</text>
+              <text text-anchor="end" transform="translate(-9,3.5)" style="font: 11px sans-serif; fill: #000; opacity: 1;">100</text>
+            </g>
+            <g class="mark-path" style="pointer-events: none;">
+              <path transform="translate(0.5,0.5)" d="M-6,0H0V200H-6" style="fill: none; stroke: #000; stroke-width: 1;"></path>
+            </g>
+            <g class="mark-text"></g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

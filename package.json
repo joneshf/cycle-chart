@@ -1,0 +1,28 @@
+{
+  "name": "cycle-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@cycle/core": "^5.0.1",
+    "@cycle/dom": "^7.1.1",
+    "@cycle/http": "^6.0.4",
+    "babel-loader": "^5.3.3",
+    "json-loader": "^0.5.3",
+    "jsverify": "^0.7.1",
+    "lightness": "^1.0.0",
+    "ramda": "^0.18.0",
+    "rx": "^4.0.6",
+    "rx-combine-latest-obj": "^1.0.2",
+    "rx-vega-parse": "^1.0.0",
+    "vdom-virtualize": "^1.0.1",
+    "vega": "joneshf/vega#patch-1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
